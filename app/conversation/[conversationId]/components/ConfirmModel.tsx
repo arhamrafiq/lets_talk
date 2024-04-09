@@ -49,7 +49,7 @@ export const ConfirmModel: React.FC<Props> = ({ isOpen, onClose }) => {
             Delete Conversation?
           </Dialog.Title>
           <div className="mt-2">
-            <p>Are you Sure? Can't be undo</p>
+            <p>Are you Sure? Cant be undo</p>
           </div>
         </div>
       </div>
